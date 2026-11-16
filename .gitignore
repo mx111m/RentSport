@@ -1,6 +1,13 @@
-.vs/
 bin/
 obj/
+.vs/
+.dotnet/
+NuGet/
+publish/
+dist/
 *.user
 *.suo
-*.db
+*.pdb
+*.bak
+rent.db
+rent.db-*
